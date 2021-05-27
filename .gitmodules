@@ -1,3 +1,6 @@
 [submodule "eleventy-base-blog"]
 	path = eleventy-base-blog
 	url = https://github.com/11ty/eleventy-base-blog.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/11ty/eleventy-base-blog.git
