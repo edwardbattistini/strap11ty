@@ -1,6 +1,9 @@
-## Playground for Strapi and 11ty
+# Playground for Strapi and 11ty
+https://strapi.io/
 
-https://strapi.io/blog/building-a-blog-with-11ty-and-strapi
+https://www.11ty.dev/
+
+lets build the future
 
 
 ### Install strapi backend and run it
@@ -20,3 +23,6 @@ cd frontend
 yarn install
 yarn serve
 ```
+
+Playgroubnd based on this tuto
+https://strapi.io/blog/building-a-blog-with-11ty-and-strapi
